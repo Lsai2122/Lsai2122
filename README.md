@@ -1,7 +1,7 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p> -->
-![header](https://capsule-render.vercel.app/api?type=wave&text=HeyEveryone!👋&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&text=HeyEveryone!👋&color=auto&height=300&section=header&fontSize=90)
 <a href="http://linkedin.com/in/nerella-leela-venkata-sai-849013333/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in.png"/>
 </a>
