@@ -1,9 +1,7 @@
 <!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone, Nerella Leela Venkata Sai here! here&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=30"/>
 </p> -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone,%20Nerella%20Leela%20Venkata%20Sai%20here!👋&animation=fadeIn&type=waving&color=gradient&height=110&fontSize=30)
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/nerella-leela-venkata-sai-849013333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nerella Leela Venkata Sai" height="30" width="40" /></a>
