@@ -1,11 +1,14 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p> -->
-![header](https://capsule-render.vercel.app/api?type=wave&text=HeyEveryone!👋&color=auto&height=200&section=header&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <br>
-<a href="http://linkedin.com/in/nerella-leela-venkata-sai-849013333/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in.png"/>
-</a>
-<a href="https://www.instagram.com/just_sai_2122/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<p align="left">
+<a href="https://www.linkedin.com/in/nerella-leela-venkata-sai-849013333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nerella Leela Venkata Sai" height="30" width="40" /></a>
+<a href="https://kaggle.com/codingyodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="codingyodha" height="30" width="40" /></a>
+<a href="https://instagram.com/shivaprasadbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivaprasadbg" height="30" width="40" /></a>
+<a href="https://medium.com/@codingyodha7706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codingyodha7706" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/coding_yodha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coding_yodha" height="30" width="40" /></a>
+</p>
